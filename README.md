@@ -17,3 +17,4 @@ Task 1 answers are maintained in "TestTasksforQAEngineeratRelayr.pdf"
 ### Test Reports
 1. Executed with pytest publicapis.py -v --junitxml="testresults.xml"
 2. The file generated is "testresults.xml" after the execution
+3. More modification and parameterization could have been done
